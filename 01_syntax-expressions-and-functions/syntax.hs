@@ -1,0 +1,14 @@
+-- 0 Warmup
+-- ((4 * 5) + (7 / 8))
+-- 1
+-- (((1*2)+(4/5))-5)
+-- 2
+-- ((sum x):xs)
+-- 3
+-- (sum (x:xs))
+-- 4
+-- (((atan2 pi)/(dx pi))*dy)
+-- 5
+-- (if (isPrime 23223) then (((atan pi)/(dx pi))/dy) else 0)
+-- 6
+-- ((atan2 0.4) 3.1)
